@@ -1,10 +1,10 @@
 # US Finance Jobs
 
-Open finance roles at US employers: 209 finance roles at 137 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=finance).** Last updated 2026-11-14.
+Open finance roles at US employers: 210 finance roles at 138 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=finance).** Last updated 2026-11-15.
 
-All 209 are listed below. Browse the newest on [warmada.com/jobs/finance](https://warmada.com/jobs/finance?utm_source=github&utm_medium=list&utm_campaign=finance).
+All 210 are listed below. Browse the newest on [warmada.com/jobs/finance](https://warmada.com/jobs/finance?utm_source=github&utm_medium=list&utm_campaign=finance).
 
-**By city:** New York (37) · San Francisco (43) · Seattle (3) · Boston (2) · Austin (2) · Los Angeles (3) · Denver (1) · Washington, DC (1) · Atlanta (3) · Dallas (7) · Houston (1) · Philadelphia (1) · San Diego (3) · Remote (40) · Elsewhere in the US (62)
+**By city:** New York (37) · San Francisco (43) · Seattle (3) · Boston (2) · Austin (2) · Los Angeles (3) · Denver (1) · Washington, DC (1) · Atlanta (3) · Dallas (7) · Houston (1) · Philadelphia (1) · San Diego (3) · Remote (41) · Elsewhere in the US (62)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a finance role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -182,10 +182,11 @@ A bad listing? Email hello@warmada.com with the link.
 | [Iambic Therapeutics, Inc](https://warmada.com/companies/iambic-therapeutics-inc?utm_source=github&utm_medium=list&utm_campaign=finance) | Associate Director/Director, FP&amp;A | San Diego HQ | Nov 4 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/23ca8483-b08d-48a4-a11b-bba6a224aca8) · [Find the hiring manager](https://warmada.com/job/iambic-therapeutics-inc-associate-director-director-fp-and-a-bb4a40a4-2e07-468d-b483-ad7ebeb55b80?utm_source=github&utm_medium=list&utm_campaign=finance) |
 | [Iambic Therapeutics, Inc](https://warmada.com/companies/iambic-therapeutics-inc?utm_source=github&utm_medium=list&utm_campaign=finance) | Sr Manager, FP&amp;A - Discovery R&amp;D | San Diego HQ | Nov 4 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/77e13632-a60f-4cbb-8f7e-73a2f0f8c6df) · [Find the hiring manager](https://warmada.com/job/iambic-therapeutics-inc-sr-manager-fp-and-a-discovery-r-and-d-56b9c152-8b63-4168-999a-11e34bcd36b5?utm_source=github&utm_medium=list&utm_campaign=finance) |
 
-## Remote (40)
+## Remote (41)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [1password](https://warmada.com/companies/1password?utm_source=github&utm_medium=list&utm_campaign=finance) | Strategic Finance Analyst - 15 Month Contract | Remote (United States \| Canada) | Nov 14 | [Apply](https://jobs.ashbyhq.com/1password/6d3acd23-5a6d-4e38-bf5a-bee4d9a3460b) · [Find the hiring manager](https://warmada.com/job/1password-strategic-finance-analyst-15-month-contract-0e4b28d4-fb23-415e-a877-27e2d498c914?utm_source=github&utm_medium=list&utm_campaign=finance) |
 | [Rula](https://warmada.com/companies/rula?utm_source=github&utm_medium=list&utm_campaign=finance) | Corporate Accounting Manager | Remote - United States | Nov 14 | [Apply](https://jobs.ashbyhq.com/rula/fbc80769-7d0f-46db-8162-f0cabc891a3a) · [Find the hiring manager](https://warmada.com/job/rula-corporate-accounting-manager-ef8ac3ce-9463-4ab1-9817-b57d6ab764b7?utm_source=github&utm_medium=list&utm_campaign=finance) |
 | [Tailscale](https://warmada.com/companies/tailscale?utm_source=github&utm_medium=list&utm_campaign=finance) | Staff Accountant | Remote (United States) | Nov 12 | [Apply](https://job-boards.greenhouse.io/tailscale/jobs/4753773005) · [Find the hiring manager](https://warmada.com/job/tailscale-staff-accountant-691e9166-7ee9-4b65-8318-297ff848ac1a?utm_source=github&utm_medium=list&utm_campaign=finance) |
 | [Mercer Advisors](https://warmada.com/companies/mercer-advisors?utm_source=github&utm_medium=list&utm_campaign=finance) | Tax Manager | Remote, USA | Nov 12 | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/5473250008) · [Find the hiring manager](https://warmada.com/job/mercer-advisors-tax-manager-95ee7651-6ef8-4cb7-b481-774c794ddf47?utm_source=github&utm_medium=list&utm_campaign=finance) |
